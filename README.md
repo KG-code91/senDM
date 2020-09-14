@@ -9,4 +9,5 @@ Pour configurer senDM sur votre serveur discord : [Cliquer ici](https://discord.
   * Creer un rôle modérateur
   * Rendez-vous dans les permissions du salon 'dm'
   * Mettre au rôle modérateur les permissions suivante :
+  
   ![Permission Modérateurs](/Mod.png)
