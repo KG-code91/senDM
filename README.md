@@ -30,5 +30,4 @@ Préfix => '='
  En cas de problème me contacter :
  
  * Via le serveur [KG-code](https://discord.gg/tSamuee)
- * Par DM à KG-code#2600
  * Par mail : KG-code@mail.fr (Avec pour objet : 'senDM')
