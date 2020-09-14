@@ -1,4 +1,4 @@
-# senDM
+# senDM - Développé par KG-code
 
 Pour configurer senDM sur votre serveur discord : [Cliquer ici](https://discord.com/oauth2/authorize?client_id=753276888859934792&permissions=8&scope=bot)
 
