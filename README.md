@@ -12,6 +12,23 @@ Pour configurer senDM sur votre serveur discord : [Cliquer ici](https://discord.
   
   ![Permissions Modérateurs](/Mod.png)
   
-  * Au rôle membre ou everyone (en fonction de rôle de votre serveur), y mettre les permissions suivantes :
+  * Au rôle membre ou everyone (en fonction de rôles de votre serveur), y mettre les permissions suivantes :
  
   ![Permissions Membres/Everyone](/Mem.png)
+  
+## Préfix
+
+Préfix => '='
+
+## Les Commandes
+
+* =help => Pour Afficher le panneau d'aide
+* =dm <message> => Pour envoyer un message aux modérateurs de n'importe quel salon
+ 
+ ## Me Contacter
+ 
+ En cas de problème me contacter :
+ 
+ * Via le serveur [KG-cdeo](https://discord.gg/tSamuee)
+ * Par DM à KG-code#2600
+ * Par mail : KG-code@mail.fr (Avec pour objet : 'senDM')
