@@ -22,8 +22,8 @@ Préfix => '='
 
 ## Les Commandes
 
-* =help => Pour Afficher le panneau d'aide
-* =dm <message> => Pour envoyer un message aux modérateurs de n'importe quel salon
+* =help       => Pour Afficher le panneau d'aide
+* =dm message => Pour envoyer un message aux modérateurs de n'importe quel salon
  
  ## Me Contacter
  
