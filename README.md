@@ -25,9 +25,13 @@ Préfix => '='
 * =help       => Pour Afficher le panneau d'aide
 * =dm message => Pour envoyer un message aux modérateurs de n'importe quel salon
  
- ## Me Contacter
+ ### Me Contacter
  
  En cas de problème me contacter :
  
  * Via le serveur [KG-code](https://discord.gg/tSamuee)
  * Par mail : KG-code@mail.fr (Avec pour objet : 'senDM')
+ 
+ #### KG-code
+ 
+ Retrouver tous les codes de KG-code [ici](https://kg-code.surge.sh)
