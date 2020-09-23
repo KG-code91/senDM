@@ -29,8 +29,8 @@ Préfix => '='
  
  En cas de problème me contacter :
  
- * Via le serveur [KG-code](https://discord.gg/tSamuee)
- * Par mail : KG-code@mail.fr (Avec pour objet : 'senDM')
+ * Via le serveur [KG-code serveur](https://discord.gg/tSamuee)
+ * Par mail : [KG-code site officiel rubrique contact] (https://kg-code.surge.sh/#contacted)
  
  #### KG-code
  
