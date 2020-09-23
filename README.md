@@ -30,7 +30,7 @@ Préfix => '='
  En cas de problème me contacter :
  
  * Via le serveur [KG-code serveur](https://discord.gg/tSamuee)
- * Par mail : [KG-code site officiel rubrique contact] (https://kg-code.surge.sh/#contacted)
+ * Par mail : [KG-code site officiel rubrique contact](https://kg-code.surge.sh/#contacted)
  
  #### KG-code
  
