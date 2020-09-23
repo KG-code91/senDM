@@ -32,6 +32,10 @@ Préfix => '='
  * Via le serveur [KG-code serveur](https://discord.gg/tSamuee)
  * Par mail : [KG-code site officiel rubrique contact](https://kg-code.surge.sh/#contacted)
  
+ ### Newletter
+ 
+ Inscrivez-vous à la [Newletter](https://kg-code.surge.sh/#newletter) pour être au courant des prochaines mises à jour de senDM et de KG-code.
+ 
  #### KG-code
  
  Retrouver tous les codes de KG-code [ici](https://kg-code.surge.sh)
